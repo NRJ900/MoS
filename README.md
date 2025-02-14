@@ -65,4 +65,4 @@ For any issues, open a **GitHub Issue**.
 
 ---
 
-🔗 **Follow me on GitHub**: [Your Profile](https://github.com/NRJ900)
+🔗 **Follow me on GitHub**:  [Your Profile](https://github.com/NRJ900)
